@@ -1,7 +1,8 @@
 nz-ua
 ==========
 
-![PyPI](https://img.shields.io/pypi/v/nz-ua?style=for-the-badge)
+[![PyPI](https://img.shields.io/pypi/v/nz-ua?style=for-the-badge)](https://pypi.org/project/nz-ua/)
+
 
 Library for working with the nz.ua service
 
@@ -50,4 +51,3 @@ Links
 ------
 
 - [Documentation](https://GoldMasterPro.github.io/nz-ua)
-- [Pypi](https://test.pypi.org/project/nz-ua/)
