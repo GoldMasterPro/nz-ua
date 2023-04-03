@@ -2,7 +2,7 @@ from .client import *
 from . import errors
 
 __title__ = "nz-ua"
-__version__ = "2.0.0"
+__version__ = "2.0.1"
 __description__ = "Library for working with the nz.ua service"
 __author__ = "GoldMasterPro"
 __license__ = "MIT"
